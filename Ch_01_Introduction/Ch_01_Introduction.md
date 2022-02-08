@@ -5,7 +5,7 @@
 The purpose of this book is to describe a model of reality that works pretty well.
 The model integrates a variety of philosophical view points and offers explanations for our modern intellectual anxieties.
 
-The name *Pretty Good Metaphysics (PGM)* was chosen because it promotes the model's inherent humility. An assertion of PGM is that descriptions of reality are most helpful when they're simplifications of reality. And since a simplification isn't perfect, PGM isn't meant to be perfect either. 
+The name *Pretty Good Metaphysics (PGM)* was chosen because it promotes the model's inherent humility. An assertion of PGM is that descriptions of reality are most helpful when they're simplifications of reality. And since a simplification isn't meant to be a perfect description, PGM isn't meant to be perfect either. 
 
 ## Model description
 
